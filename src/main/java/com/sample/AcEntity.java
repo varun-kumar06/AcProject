@@ -18,6 +18,7 @@ public class AcEntity {
 	private int price;
 	private String acType;
 	private String coil;
+	private String Material; 
 	
 	public int getId() {
 		return id;
